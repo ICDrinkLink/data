@@ -182,107 +182,111 @@
       "woodpecker": {
         "name": "Woodpecker Cider",
         "abv": 3.5
-      },
+      }
     }
   },
-  "wine": {
-    "name": "Wine",
+  "red_wine": {
+    "name": "Red Wine",
     "items": {
-      "red": {
-        "name": "Red",
-        "items": {
-          "cabernet_sauvignon": {
-            "name": "Carbernet Sauvignon",
-            "abv": 14
-          },
-          "malbec": {
-            "name": "Malbec",
-            "abv": 14.25
-          },
-          "merlot": {
-            "name": "Merlot",
-            "abv": 14
-          },
-          "pinot_noir": {
-            "name": "Pinot Noir",
-            "abv": 12.5
-          },
-          "shiraz": {
-            "name": "Shiraz",
-            "abv": 14.5
-          },
-          "zinfandel": {
-            "name": "Zinfandel",
-            "abv": 14.75
-          }
-        }
-      "white": {
-        "name": "White",
-        "items": {
-              "chardonnnay": {
-              "name": "Chardonnay",
-              "abv": 13.75
-            },
-            "chenin_blanc": {
-              "name": "Chenin Blanc",
-              "abv": 12.75
-            },
-            "muscat": {
-              "name": "Muscat",
-              "abv": 8.5
-            },
-            "pinot_grigio": {
-              "name": "Pinot Grigio",
-              "abv": 12.5
-            },
-            "riesling": {
-              "name": "Riesling",
-              "abv": 9.5
-            },
-            "sauvignon_blanc": {
-              "name": "Sauvignon Blanc",
-              "abv": 12.75
-            }
-          }
+      "cabernet_sauvignon": {
+        "name": "Carbernet Sauvignon",
+        "abv": 14
+      },
+      "malbec": {
+        "name": "Malbec",
+        "abv": 14.25
+      },
+      "merlot": {
+        "name": "Merlot",
+        "abv": 14
+      },
+      "pinot_noir": {
+        "name": "Pinot Noir",
+        "abv": 12.5
+      },
+      "shiraz": {
+        "name": "Shiraz",
+        "abv": 14.5
+      },
+      "zinfandel": {
+        "name": "Zinfandel",
+        "abv": 14.75
+      }
+    }
+  },
+  "white_wine": {
+    "name": "White Wine",
+    "items": {
+      "chardonnnay": {
+        "name": "Chardonnay",
+        "abv": 13.75
+      },
+      "chenin_blanc": {
+        "name": "Chenin Blanc",
+        "abv": 12.75
+      },
+      "muscat": {
+        "name": "Muscat",
+        "abv": 8.5
+      },
+      "pinot_grigio": {
+        "name": "Pinot Grigio",
+        "abv": 12.5
+      },
+      "riesling": {
+        "name": "Riesling",
+        "abv": 9.5
+      },
+      "sauvignon_blanc": {
+        "name": "Sauvignon Blanc",
+        "abv": 12.75
+      }
+    }
+  },
+  "rose": {
+    "name": "Rosé",
+    "items": {
       "rose": {
-              "name": "Rosé",
-              "items": {
-                "rose": {
-                  "name": "Rosé",
-                  "abv": 10.5
-                }
-}
+        "name": "Rosé",
+        "abv": 10.5
+      }
+    }
   },
-  "vodka": {
-    "name": "Vodka",
-    "abv": 40
-  },
-  "tequila": {
-    "name": "Tequila",
-    "abv": 38
-  },
-  "rum": {
-    "name": "Rum",
-    "abv": 38
-  },
-  "whiskey": {
-    "name": "Whiskey",
-    "abv": 40
-  },
-  "gin": {
-    "name": "Gin",
-    "abv": 42
-  },
-  "jagermeister": {
-    "name": "Jagermeister",
-    "abv": 35
-  },
-  "baileys": {
-    "name": "Baileys",
-    "abv": 17
-  },
-  "aperol": {
-    "name": "Aperol",
-    "abv":11
+  "spritis": {
+    "name": "Spritis",
+    "items": {
+      "vodka": {
+        "name": "Vodka",
+        "abv": 40
+      },
+      "tequila": {
+        "name": "Tequila",
+        "abv": 38
+      },
+      "rum": {
+        "name": "Rum",
+        "abv": 38
+      },
+      "whiskey": {
+        "name": "Whiskey",
+        "abv": 40
+      },
+      "gin": {
+        "name": "Gin",
+        "abv": 42
+      },
+      "jagermeister": {
+        "name": "Jagermeister",
+        "abv": 35
+      },
+      "baileys": {
+        "name": "Baileys",
+        "abv": 17
+      },
+      "aperol": {
+        "name": "Aperol",
+        "abv":11
+      }
+    }
   }
 }
